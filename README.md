@@ -31,7 +31,7 @@ This project focuses on analyzing SLA (Service Level Agreement) compliance for s
    ```bash
    python data_analysis.py
    ```
-4. Open the Tableau dashboard [here](https://public.tableau.com/app/profile/yasmine.setiadi/viz/Milestone1_17345206744000/Dashboard1)
+4. Open the Tableau dashboard [here](https://public.tableau.com/app/profile/yasmine.setiadi/viz/SLAComplianceAnalysisDashboard/Dashboard1#1)
 
 ## Dashboard Preview
 ![Tableau Dashboard](tableauscreenshot.png)
