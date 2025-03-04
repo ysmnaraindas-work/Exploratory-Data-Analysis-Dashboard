@@ -6,7 +6,7 @@ This project focuses on analyzing SLA (Service Level Agreement) compliance for s
 ## Key Features
 - **Data Analysis**: Cleaning and processing support ticket data.
 - **SLA Compliance Metrics**: Evaluating response and resolution times.
-- **Visualization**: Interactive dashboard created with [Tableau](https://public.tableau.com/app/profile/yasmine.setiadi/viz/Milestone1_17345206744000/Dashboard1).
+- **Visualization**: Interactive dashboard created with [Tableau](https://public.tableau.com/app/profile/yasmine.setiadi/viz/SLAComplianceAnalysisDashboard/Dashboard1#1).
 - **Technology Stack**:
   - Python (for data preprocessing and analysis)
   - Pandas, NumPy, Matplotlib, Seaborn
