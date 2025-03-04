@@ -37,7 +37,7 @@ This project focuses on analyzing SLA (Service Level Agreement) compliance for s
 ![Tableau Dashboard](tableauscreenshot.png)
 
 ## Contact
-For any inquiries, reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile) or email at your.email@example.com.
+For any inquiries, reach out via [LinkedIn](https://www.linkedin.com/in/yasminenaraindas-setiadi/) or email at ysmnaraindas.work@gmail.com.
 
 ---
 ⭐ Don't forget to star this repository if you found it useful!
